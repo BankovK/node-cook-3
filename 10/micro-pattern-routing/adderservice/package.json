@@ -1,0 +1,21 @@
+{
+  "name": "adderservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloomrun": "^4.1.1",
+    "net-object-stream": "^2.1.0",
+    "pump": "^3.0.0",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "tap": "^15.1.6"
+  }
+}
