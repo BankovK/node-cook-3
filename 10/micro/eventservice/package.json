@@ -1,0 +1,17 @@
+{
+  "name": "eventservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concordant": "^2.1.0",
+    "mongodb": "^4.4.0",
+    "redis": "^4.0.4"
+  }
+}

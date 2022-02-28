@@ -1,4 +1,5 @@
 fuge_global:
+  run_containers: false
   tail: true
   monitor: true
   monitor_excludes:
